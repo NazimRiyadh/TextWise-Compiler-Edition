@@ -1,0 +1,411 @@
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe.config
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.pdb
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.AssemblyReference.cache
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Form1.resources
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Properties.Resources.resources
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.GenerateResource.cache
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CoreCompileInputs.cache
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.exe
+C:\Users\Riyadh\Desktop\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.pdb
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe.config
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.pdb
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.AssemblyReference.cache
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Properties.Resources.resources
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.GenerateResource.cache
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CoreCompileInputs.cache
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.exe
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.pdb
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.ResolveComReference.cache
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CopyComplete
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Draw.resources
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Form1.resources
+C:\Users\Riyadh\Downloads\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe.config
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.pdb
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.xml
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.AssemblyReference.cache
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.ResolveComReference.cache
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Draw.resources
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Form1.resources
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Properties.Resources.resources
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.GenerateResource.cache
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CoreCompileInputs.cache
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CopyComplete
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.exe
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.pdb
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.FindForm.resources
+C:\Users\saiya\Downloads\Textwise\Textwise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.ReplaceForm.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe.config
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.pdb
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.xml
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.AssemblyReference.cache
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.ResolveComReference.cache
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Draw.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.FindForm.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.GuestUsers.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Form1.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.LandingPage.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.LogGuest.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Login.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Properties.Resources.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.ReplaceForm.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.GenerateResource.cache
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CoreCompileInputs.cache
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CopyComplete
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.exe
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.pdb
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.signup.resources
+C:\Users\Riyadh\Downloads\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.perks.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe.config
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.pdb
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Draw.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.FindForm.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.GuestUsers.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Form1.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.LandingPage.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.LogGuest.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Login.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.perks.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Properties.Resources.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.ReplaceForm.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.signup.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CopyComplete
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.exe
+C:\Users\DELL\Downloads\Ankan 2\Ankan\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.pdb
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe.config
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.exe
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\TextWise-Compiler Edition.pdb
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.barcodes.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.commons.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.forms.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.io.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.kernel.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.layout.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.pdfa.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.sign.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itext.svg.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\itextsharp.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Draw.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.FindForm.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.GuestUsers.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Form1.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.LandingPage.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.LogGuest.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Login.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.perks.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.Properties.Resources.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.ReplaceForm.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise_Compiler_Edition.signup.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.csproj.CopyComplete
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.exe
+C:\Users\DELL\Downloads\TextWise Editor\TextWise\TextWise-Compiler Edition\TextWise-Compiler Edition\obj\Debug\TextWise-Compiler Edition.pdb
